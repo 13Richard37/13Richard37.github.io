@@ -23,11 +23,12 @@ header {
 
 header h1 {
 	text-align: center;
+	margin: 0;
 }
 
 nav {
 	background-color:;
-	padding: 10px;
+	
 }
 
 nav ul {
