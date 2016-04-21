@@ -16,7 +16,7 @@ body {
 
 
 header {
-	background-color: ;
+	background-color:;
 	padding-top: 10px;
 	background-image: url(https://i.ytimg.com/vi/1SrcTNmCAsY/maxresdefault.jpg);
 }
@@ -27,7 +27,7 @@ header h1 {
 }
 
 nav {
-	background-color:;
+	background-color:#000000;
 	
 }
 
