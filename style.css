@@ -55,11 +55,16 @@ li a:hover {
 
 IMG.displayed {
 	width: 50%;
-	margin-right: 5px
-	padding: 5px
+	padding-right: 5px;
+	
+	
 }
 
 
 .caption {
 	width: 50%; text-align: center;
+}
+
+footer {
+	text-align: center;
 }
