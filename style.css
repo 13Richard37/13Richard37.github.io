@@ -2,12 +2,13 @@
 body {
 	color: ;
 	font-family: Arial;
-	background-color: #F7F3E3; 
+	background-color: #D6EAF8; 
 }
 
 .container {
 	width: 80%;
 	margin: 0 auto;
+	background: #F7F3E3
 }
 
 .logo {
@@ -16,7 +17,7 @@ body {
 
 
 header {
-	background-color:;
+	background-color:#000000;
 	padding-top: 10px;
 	background-image: url(https://i.ytimg.com/vi/1SrcTNmCAsY/maxresdefault.jpg);
 }
@@ -27,7 +28,7 @@ header h1 {
 }
 
 nav {
-	background-color:#F7F3E3;
+	background-color:#8F9090;
 	
 }
 
@@ -53,20 +54,28 @@ li a:hover {
 	color: #F6E1E1:;
 }
 
+.h2h3 {
+	text-align: center;
+	
+	background: #8F9090;
+}
+
+
+
 IMG.displayed {
-	width: 50%;
-	padding-right: 5px;
-	padding-bottom: 5px;
+	padding: 5px
 }
 
 
 .caption {
-	width: 50%; text-align: center;
+	width: 100%; text-align: center;
 }
 
 .text_link {
 	color: #000000;
 }
+
+
 
 footer {
 	text-align: center;
