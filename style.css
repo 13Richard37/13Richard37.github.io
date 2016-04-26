@@ -65,6 +65,10 @@ IMG.displayed {
 	width: 50%; text-align: center;
 }
 
+.text_link {
+	color: #000000;
+}
+
 footer {
 	text-align: center;
 }
