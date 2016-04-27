@@ -1,11 +1,11 @@
 
 body {
-	font-family: cursive;
+	font-family: sans-serif;
 	background-color: #D6EAF8; 
 }
 
 .container {
-	width: 80%;
+	width: 85%;
 	margin: 0 auto;
 	background: #F7F3E3
 }
@@ -13,6 +13,7 @@ body {
 .logo {
   border-radius: 50%;
 }
+
 
 
 header {
@@ -59,12 +60,19 @@ li a:hover {
 	background: #8F9090;
 }
 
+p {
+	padding: 5px;
+	padding-right: 5px;
+}
+
+
+
 .left{
 	text-align: left;
 }
 
 
-IMG.displayed {
+.displayed {
 	padding: 5px;
 }
 
@@ -89,4 +97,6 @@ footer {
 	text-align: center;
 	color: #000000;
 	background-color: #8F9090;
+	padding-bottom: 15px;
+	padding-top: 15px;
 }
